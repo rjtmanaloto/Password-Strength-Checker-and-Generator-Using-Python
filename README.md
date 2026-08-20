@@ -41,22 +41,22 @@ Create a simple desktop application that evaluates password strength, identifies
 
 <p align="center">
 Password Strength Checker and Generator - App<br/>
-<img width="400" height="630" alt="01  Password Strength Checker and Generator App" src="https://github.com/user-attachments/assets/becd7dad-000e-42d5-aa0f-2bda4d04be9d" />
+<img width="400" height="630" alt="01  Password Strength Checker and Generator App" src="https://github.com/user-attachments/assets/c19ae7f2-02d3-44fc-8a23-0be1d7c2ecd9" />
 <p align="center">
 Password Strength Checker - Show / Hide Password<br/>
-<img width="400" height="630" alt="02  Password - Hide" src="https://github.com/user-attachments/assets/bae15099-b1e3-473a-b8fb-e358724030f0" />
-<img width="400" height="630" alt="03  Password - Show" src="https://github.com/user-attachments/assets/5a71f7ec-72f7-454f-ae29-e6c021c3a10f" />
+<img width="400" height="630" alt="02  Password - Hide" src="https://github.com/user-attachments/assets/9d694a47-23e3-46b1-9fc0-69369170ebb1" />
+<img width="400" height="630" alt="03  Password - Show" src="https://github.com/user-attachments/assets/06b1c06f-c5f1-45cb-b5e6-a91de95d9b1d" />
 <p align="center">
 Password Strength Checker - Password Strength (0 - 5)<br/>
-<img width="400" height="630" alt="04  Password Strength - 0" src="https://github.com/user-attachments/assets/9974d7dc-c1d5-452f-80a6-30712445fa9d" />
-<img width="400" height="630" alt="05  Password Strength - 1" src="https://github.com/user-attachments/assets/09d51810-b499-4596-abf2-a31dc47cba48" />
-<img width="400" height="630" alt="06  Password Strength - 2" src="https://github.com/user-attachments/assets/5ea56732-1700-4f52-b3ff-71a819be44a4" />
-<img width="400" height="630" alt="07  Password Strength - 3" src="https://github.com/user-attachments/assets/cd4fa392-308b-4852-a0aa-343722f11b62" />
-<img width="400" height="630" alt="08  Password Strength - 4" src="https://github.com/user-attachments/assets/233adca3-cbb4-4c2d-a1b8-d3325cd9fc6f" />
-<img width="400" height="630" alt="09  Password Strength - 5" src="https://github.com/user-attachments/assets/fc4279de-f2f9-4cb3-a97f-9d9e4a1f2dec" />
+<img width="400" height="630" alt="04  Password Strength - 0" src="https://github.com/user-attachments/assets/7fdd87ef-1074-4bee-82a6-1a390616307a" />
+<img width="400" height="630" alt="05  Password Strength - 1" src="https://github.com/user-attachments/assets/9e4dbf23-e669-4008-83cb-3de585944150" />
+<img width="400" height="630" alt="06  Password Strength - 2" src="https://github.com/user-attachments/assets/ea839bd0-c7fd-49af-84a8-f6fe9e72c9e8" />
+<img width="400" height="630" alt="07  Password Strength - 3" src="https://github.com/user-attachments/assets/7b9cdb16-0c0d-4aac-9ee4-5ead87694ce3" />
+<img width="400" height="630" alt="08  Password Strength - 4" src="https://github.com/user-attachments/assets/e2d16bb2-056d-4b4d-a6d7-a57b04508db1" />
+<img width="400" height="630" alt="09  Password Strength - 5" src="https://github.com/user-attachments/assets/4e5646a4-a53a-4e34-8b29-ec932b9b5d52" />
 <p align="center">
 Password Generator - Password Length (4, 8, 32)<br/>
-<img width="400" height="630" alt="10  Password Generator Length - 4" src="https://github.com/user-attachments/assets/97100f0d-7370-436d-abd3-2d068833aaa1" />
-<img width="400" height="630" alt="11  Password Generator Length - 8" src="https://github.com/user-attachments/assets/61d00ada-47f9-4d0c-9156-c4d116259de2" />
-<img width="400" height="630" alt="12  Password Generator Length - 32" src="https://github.com/user-attachments/assets/030baecb-3341-4e10-8e13-5f23efa97cf9" />
+<img width="400" height="630" alt="10  Password Generator Length - 4" src="https://github.com/user-attachments/assets/203c7ed8-b326-4d09-bb89-9f17edfb2171" />
+<img width="400" height="630" alt="11  Password Generator Length - 8" src="https://github.com/user-attachments/assets/1e20d991-757c-4440-8744-15f515d51507" />
+<img width="400" height="630" alt="12  Password Generator Length - 32" src="https://github.com/user-attachments/assets/5c935836-b01d-4367-81a0-f184374ccd43" />
 <p align="center">
